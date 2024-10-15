@@ -1,0 +1,14 @@
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\bin\Debug\net8.0\calculator.exe
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\bin\Debug\net8.0\calculator.deps.json
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\bin\Debug\net8.0\calculator.dll
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\bin\Debug\net8.0\calculator.pdb
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.dll
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\refint\calculator.dll
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.pdb
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+D:\semester 1\comp 100-008\c# personal projects\project calculator\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll

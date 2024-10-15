@@ -1,0 +1,14 @@
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\bin\Debug\net8.0\to-do-list.exe
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\bin\Debug\net8.0\to-do-list.deps.json
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\bin\Debug\net8.0\to-do-list.runtimeconfig.json
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\bin\Debug\net8.0\to-do-list.dll
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\bin\Debug\net8.0\to-do-list.pdb
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.AssemblyInfoInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.AssemblyInfo.cs
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.csproj.CoreCompileInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.dll
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\refint\to-do-list.dll
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.pdb
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\to-do-list.genruntimeconfig.cache
+D:\semester 1\comp 100-008\c# personal projects\project To-do -list\to-do-list\to-do-list\obj\Debug\net8.0\ref\to-do-list.dll

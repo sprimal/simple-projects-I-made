@@ -1,0 +1,14 @@
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\bin\Debug\net8.0\rock paper scissors.exe
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\bin\Debug\net8.0\rock paper scissors.deps.json
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\bin\Debug\net8.0\rock paper scissors.runtimeconfig.json
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\bin\Debug\net8.0\rock paper scissors.dll
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\bin\Debug\net8.0\rock paper scissors.pdb
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.AssemblyInfoInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.AssemblyInfo.cs
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.csproj.CoreCompileInputs.cache
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.dll
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\refint\rock paper scissors.dll
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.pdb
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\rock paper scissors.genruntimeconfig.cache
+D:\semester 1\comp 100-008\c# personal projects\project rock-paper-scissors\rock paper scissors\rock paper scissors\obj\Debug\net8.0\ref\rock paper scissors.dll
